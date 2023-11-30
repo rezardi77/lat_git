@@ -1,6 +1,6 @@
 # Penggunaan sebagian fungsi Modul 
 from math import pow
-disini saya menambahkan tulsan.. hapus ini agar tidak error
+#kode disini sudah saya hapus yaaa
 pangkat_bilangan = pow (3,3)
 print("\nHasil dari pemangkatan bilangan adalah  : ", pangkat_bilangan)
 
@@ -18,3 +18,4 @@ print("\nHasil dari pemangkatan bilangan adalah : ", pangkat_bilangan)
 bil = int(input("Masukan sebuah bilangan positif : "))
 faktorial_bil = factorial(bil)
 print("Bilangan faktorial dari bil adalah : ", faktorial_bil)
+
