@@ -1,6 +1,6 @@
 # Penggunaan sebagian fungsi Modul 
 from math import pow
-
+disini saya menambahkan tulsan.. hapus ini agar tidak error
 pangkat_bilangan = pow (3,3)
 print("\nHasil dari pemangkatan bilangan adalah  : ", pangkat_bilangan)
 
